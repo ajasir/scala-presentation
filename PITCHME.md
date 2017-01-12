@@ -11,6 +11,7 @@ google logo goes here
 
 
 #HSLIDE
+```javascript
 // jQuery
 $('button').click(function(){
     $('h1, h2, p').addClass('blue')
@@ -18,3 +19,4 @@ $('button').click(function(){
     $('h3').toggleClass('error')
     $('#foo').attr('alt', 'Lorem Ipsum')
 });
+```
