@@ -1,9 +1,8 @@
 #HSLIDE
 
-### PROGRAMMING IN SCALA
-<span style="text-align:center">
+####Programming In Scala
+
+#HSLIDE
 ```scala
     println("Hello, there!")
 ```
-
-</span>
