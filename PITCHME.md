@@ -20,3 +20,9 @@ $('button').click(function(){
     $('#foo').attr('alt', 'Lorem Ipsum')
 });
 ```
+#HSLIDE
+- Java
+- Groovy     <!-- .element: class="fragment" -->
+- Kotlin     <!-- .element: class="fragment" -->
+- Scala     <!-- .element: class="fragment" -->
+- The JVM rocks! <!-- .element: class="fragment" -->
